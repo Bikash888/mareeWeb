@@ -37,7 +37,7 @@ const WorkProgress = () => {
       <h2>Working <span>Process</span></h2>
       </div>
       <Container fluid>
-        <Row md={4}>
+        <Row md={4} style={{height:'auto'}}>
           {work.map((item,index)=>(
               <Col key={index}>
                   <div className='image-container' 

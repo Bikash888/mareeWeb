@@ -21,7 +21,7 @@ const Crousal = () => {
     {
       title: "Project made with Love",
       discription:
-        "Pariatur non esse mollit tempor exercitation consequat ut. Id velit sit eiusmod quis magna. Incididunt pariatur nostrud aute Lorem sint reprehenderit velit pariatur enim. Quis excepteur minim laborum ex culpa commodo aliqua eiusmod deserunt in do. Nostrud voluptate veniam eu laborum sunt aute. Ad eu exercitation sit elit laboris consectetur magna enim cillum aute incididunt velit sint cillum.",
+        "Pariatur non esse mollit tempor exercitation consequat ut. Id velit sit eiusmod quis magna. Incididunt pariatur nostrud aute Lorem sint reprehend",
       button: "Read More",
       link:
         "https://res.cloudinary.com/di23q5uen/image/upload/v1589122613/icons/8044ae75dde6f46306e752770a0aec7b_grznan.jpg",
@@ -40,7 +40,7 @@ const Crousal = () => {
     <Carousel activeIndex={index} onSelect={handleSelect}>
       {imageInfo.map((element, index) => (
         <Carousel.Item key={index}>
-          <img className="d-block w-100" src={element.link} alt="First slide" />
+          <img className="d-block w-100" src={element.link} alt="First slide" style={{backgroundSize:'cover'}}/>
           <Carousel.Caption>
             <h3>{element.title}</h3>
             <p>{element.discription}</p>
