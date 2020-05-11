@@ -8,7 +8,9 @@ const Contact = () => {
     <Container fluid>
       <Row md={1} xs={1}>
         <Col>
-           
+           <div>
+               
+           </div>
 
         </Col>
       </Row>
