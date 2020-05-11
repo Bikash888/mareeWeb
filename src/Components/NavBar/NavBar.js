@@ -28,16 +28,7 @@ const NavigationBar = () => {
           <img src={Hamburger} alt='hamburger-img' className='hamburger' onClick={hamburgerClickHandler}></img>
         </div>
 
-        <div className='phone-nav'>
-        <ul>
-             <li><a href='/'>Products</a></li>
-             <li><a href='/'>Pages</a></li>
-             <li><a href='/'>Portfolio</a></li>
-             <li><a href='/'>Blog</a></li>
-             <li><a href='/'>Shop</a></li>
-             <li><a href='/'>Element</a></li>
-             </ul>
-        </div>
+       
       </nav>
     </header>
   );
