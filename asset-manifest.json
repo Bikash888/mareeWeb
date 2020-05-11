@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/mareeWeb/static/css/main.dbe64193.chunk.css",
-    "main.js": "/mareeWeb/static/js/main.4c363caf.chunk.js",
-    "main.js.map": "/mareeWeb/static/js/main.4c363caf.chunk.js.map",
+    "main.js": "/mareeWeb/static/js/main.3e3645a6.chunk.js",
+    "main.js.map": "/mareeWeb/static/js/main.3e3645a6.chunk.js.map",
     "runtime-main.js": "/mareeWeb/static/js/runtime-main.958abf8c.js",
     "runtime-main.js.map": "/mareeWeb/static/js/runtime-main.958abf8c.js.map",
     "static/css/2.69121389.chunk.css": "/mareeWeb/static/css/2.69121389.chunk.css",
     "static/js/2.d716c00a.chunk.js": "/mareeWeb/static/js/2.d716c00a.chunk.js",
     "static/js/2.d716c00a.chunk.js.map": "/mareeWeb/static/js/2.d716c00a.chunk.js.map",
     "index.html": "/mareeWeb/index.html",
-    "precache-manifest.cc9e77db0c459f59d3046a640e6d60f7.js": "/mareeWeb/precache-manifest.cc9e77db0c459f59d3046a640e6d60f7.js",
+    "precache-manifest.70ab1c7e8a4a2434a5789a1e315ffcbb.js": "/mareeWeb/precache-manifest.70ab1c7e8a4a2434a5789a1e315ffcbb.js",
     "service-worker.js": "/mareeWeb/service-worker.js",
     "static/css/2.69121389.chunk.css.map": "/mareeWeb/static/css/2.69121389.chunk.css.map",
     "static/css/main.dbe64193.chunk.css.map": "/mareeWeb/static/css/main.dbe64193.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.69121389.chunk.css",
     "static/js/2.d716c00a.chunk.js",
     "static/css/main.dbe64193.chunk.css",
-    "static/js/main.4c363caf.chunk.js"
+    "static/js/main.3e3645a6.chunk.js"
   ]
 }

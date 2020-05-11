@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9918088f2d775796401aa7c90c8fcab",
+    "revision": "9ef9c59e97a839c7d4525dca9a7d4a06",
     "url": "/mareeWeb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mareeWeb/static/css/2.69121389.chunk.css"
   },
   {
-    "revision": "964959b00ce3280f9480",
+    "revision": "cc3d1d3e12f507b4b789",
     "url": "/mareeWeb/static/css/main.dbe64193.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mareeWeb/static/js/2.d716c00a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "964959b00ce3280f9480",
-    "url": "/mareeWeb/static/js/main.4c363caf.chunk.js"
+    "revision": "cc3d1d3e12f507b4b789",
+    "url": "/mareeWeb/static/js/main.3e3645a6.chunk.js"
   },
   {
     "revision": "adb542426b86914239c2",
