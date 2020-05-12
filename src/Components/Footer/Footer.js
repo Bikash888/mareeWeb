@@ -10,7 +10,7 @@ const Footer = () => {
     
   return (
     <Container fluid>
-      <Row md={4} xs={2} style={{backgroundColor:'#c0e1cf'}}>
+      <Row md={4} xs={2} style={{backgroundColor:'#c0e1cf',height:'10rem'}}>
         <Col>
         <div className='footer'>
           <li><h2 style={{fontSize:'bold'}}>Marée</h2></li>
